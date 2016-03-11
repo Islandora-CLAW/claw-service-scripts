@@ -1,0 +1,4 @@
+*
+!.gitignore
+!example.credentials.json
+!example.host.txt
